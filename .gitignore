@@ -1,6 +1,7 @@
 *
 !task 1
 !task 2
+!*.pdf
 !*.cc
 !.gitignore
 !task 1.pdf
