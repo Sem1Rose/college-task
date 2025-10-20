@@ -1,8 +1,5 @@
 *
-!task 1
-!task 2
+!task *
 !*.pdf
 !*.cc
-!.gitignore
-!task 1.pdf
 !كان ذاك سهلا.jpg

@@ -6,6 +6,7 @@ void swap(int *array, int a, int b) {
   array[b] = temp;
 }
 
+// Cocktail shaker sort
 using namespace std;
 int main() {
   int nums[10];
